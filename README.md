@@ -1,3 +1,6 @@
+## Project Duration
+June 2024 – December 2024
+
 # pygame-coin-collector
 
 The Coin Collector game is a 2D arcade-style project designed to challenge players to navigate a character, collect coins, and avoid enemies to achieve a target score. This repository demonstrates core game development principles such as sprite rendering, collision detection, and event-driven controls—all packaged in an engaging and visually appealing environment.
