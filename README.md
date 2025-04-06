@@ -15,7 +15,7 @@ The Coin Collector game is a 2D arcade-style project designed to challenge playe
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pygame-coin-collector.git](https://github.com/Luckzaper/pygame-coin-collector.git
+   git clone [https://github.com/yourusername/pygame-coin-collector.git](https://github.com/Luckzaper/pygame-coin-collector.git](https://github.com/Luckzaper/pygame-coin-collector.git)
    cd pygame-coin-collector
    ```
 
