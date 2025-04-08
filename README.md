@@ -24,7 +24,7 @@ The Coin Collector game is a 2D arcade-style project designed to challenge playe
    pip install pygame
    python --version
    ```
-   If Python isn’t installed, download it from python.org.
+   If Python isn’t installed, download it from python.org.[https://www.python.org]
 
 3. Run the game:
    ```bash
